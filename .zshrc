@@ -43,4 +43,17 @@ export EDITOR="emacsclient"
 
 # Set various aliases
 alias e="emacsclient"
+alias vg="valgrind --track-origins=yes"
+
+# scala development
+export PATH=$PATH:~/scala/scala/bin
+export PATH=$PATH:~/scala/sbt/bin
+
+export PATH=$PATH:~/toolbox
+
+export PATH=$PATH:~/bin
+
+# virtualenvwrapper
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
 
