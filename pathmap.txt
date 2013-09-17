@@ -1,6 +1,6 @@
 .bashrc               ~/.bashrc
 .zshrc                ~/.zshrc
-.xmonad/xmonad.hs     ~/.xmonad/xmonad.hs
+xmonad.hs             ~/.xmonad/xmonad.hs
 .xmobarrc             ~/.xmobarrc
 .xinitrc              ~/.xinitrc
 gnome-xmonad.desktop  /usr/share/xsessions/gnome-xmonad.desktop
